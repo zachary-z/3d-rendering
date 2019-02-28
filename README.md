@@ -7,4 +7,4 @@ Each "face" of the sphere is made up of four coplanar points and is drawn as a p
 The sphere object itself is created using spherical coordinates to determine points on the sphere.  Coordinates were assigned to faces depending on whether they were next to each other
 
 Here are some pictures of the sphere being rendered:
-![3D Sphere](https://raw.githubusercontent.com/zachary-z/3d-rendering/sphere1.png)
+![](https://github.com/zachary-z/3d-rendering/blob/master/sphere1.png)
